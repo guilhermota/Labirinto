@@ -1,0 +1,21 @@
+Prototipos das funções (podem ser alteradas no decorrer do projeto):
+	int main(); - controla o fluxo do programa
+	
+
+	menu(); - desenha o menu, controla a execução do menu e retorna a opção escolhida
+	
+
+	void instrucoes(); - mostra as intruções do jogo
+	
+
+	void novo_jogo(); - inicializa o jogo
+
+
+	void records(); - mostra os records do jogo
+
+
+	void sair (); - fecha o jogo
+
+
+Estruturas:
+	enum instrucao {SAIR, INSTRUCOES, NOVO_JOGO, RECORDS};
