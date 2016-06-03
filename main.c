@@ -25,7 +25,7 @@ int main(int argc, char **argv){
 
 	al_flip_display();
 
-	al_rest(3.0);
+	al_rest(10.0);
 
 	al_destroy_display(display);
 
