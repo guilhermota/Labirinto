@@ -11,3 +11,5 @@ int opcao_selecionada;
 
 int inicializa_menu();
 void desenha_menu(ALLEGRO_DISPLAY *display);
+
+
